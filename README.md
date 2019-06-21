@@ -1,6 +1,6 @@
 # FooBar
 
-This program print numbers from 1 to 100. However, it print *Foo* for multiples of 3, *Bar* for multiples of 5 and *FooBar* for multiples of 15.
+This program print numbers from 1 to 100. However, it prints *Foo* for multiples of 3, *Bar* for multiples of 5 and *FooBar* for multiples of 15.
 
 ## Output would be
 
